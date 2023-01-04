@@ -8,4 +8,4 @@ Install Vite
 'npm run dev'
 
 Runs the app in the development mode.\
-Open localhost:5173
+Open localhost:5174
